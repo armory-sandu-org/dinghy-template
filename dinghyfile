@@ -1,8 +1,8 @@
 {
-   "application":"sdaniela-dinghy",
+   "application":"sdaniela-application",
    "pipelines":[
       {
-         "application":"sdaniela-dinghy",
+         "application":"sdaniela-application",
          "name":"sdaniela-pipeline",
          "keepWaitingPipelines":false,
          "lastModifiedBy":"anonymous",
