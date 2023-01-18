@@ -1,9 +1,9 @@
 {
-   "application":"sdaniela-application",
+   "application":"newappppp",
    "pipelines":[
       {
-         "application":"sdaniela-application",
-         "name":"sdaniela-pipeline",
+         "application":"newappppp",
+         "name":"pipe",
          "keepWaitingPipelines":false,
          "lastModifiedBy":"anonymous",
          "limitConcurrent":true,
