@@ -18,51 +18,8 @@
                ],
                "type":"wait",
                "waitTime":15
-            },
-            {
-               "failPipeline":true,
-               "judgmentInputs":[
-
-               ],
-               "name":"Manual Judgment",
-               "notifications":[
-
-               ],
-               "refId":"2",
-               "requisiteStageRefIds":[
-                  "1"
-               ],
-               "type":"manualJudgment"
-            },
-            {
-               "name":"Wait",
-               "refId":"3",
-               "requisiteStageRefIds":[
-                  "2"
-               ],
-               "type":"wait",
-               "waitTime":30
-            },
-            {
-               "name":"AAAAAMoreWait333alabala",
-               "refId":"4",
-               "requisiteStageRefIds":[
-                  "3"
-               ],
-               "type":"wait",
-               "waitTime":20
             }
-         ],
-         "triggers":[
-         {
-            "branch": "main",
-            "enabled": true,
-            "project": "gowrigirish",
-            "secret": "xxxxxxxx",
-            "slug": "testingrepo",
-            "source": "github",
-            "type": "git"
-        }
+         ]
          ]
       }
    ]
