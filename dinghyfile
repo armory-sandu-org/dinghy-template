@@ -11,7 +11,7 @@
          "spelEvaluator":"v4",
          "stages":[
             {
-               "name":"Wait",
+               "name":"Waait",
                "refId":"1",
                "requisiteStageRefIds":[
 
